@@ -21,6 +21,6 @@ def calculate(sheet):
     print("=====================")
     return rounded_answer
 
-output = calculate(10000)
+output = calculate(1000)
 
 print("The return statement is: ", output)
